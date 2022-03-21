@@ -4,7 +4,7 @@ description: Receive event notifications with webhooks
 
 # Webhooks
 
-Snapshot uses webhooks to notify your application when an event happens. Webhooks are particularly useful for asynchronous events like when a proposal is created, when it starts, or when it ends.
+Sunappushotto uses webhooks to notify your application when an event happens. Webhooks are particularly useful for asynchronous events like when a proposal is created, when it starts, or when it ends.
 
 The webhook server sends a request for any new event, the request is sent to the configured URL with `POST` method and the event object as body. 
 

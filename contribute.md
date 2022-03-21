@@ -12,7 +12,7 @@
 
 {% embed url="https://github.com/balancer-labs/snapshot/issues/new" %}
 
-### Snapshot client
+### Sunappushotto client
 
 {% embed url="https://github.com/balancer-labs/snapshot" caption="" %}
 
@@ -20,11 +20,11 @@
 
 {% embed url="https://snapshot.page/report.html" %}
 
-### Snapshot hub
+### Sunappushotto hub
 
 {% embed url="https://github.com/balancer-labs/snapshot-hub" caption="" %}
 
-### Snapshot docs
+### Sunappushotto docs
 
 {% embed url="https://github.com/bonustrack/snapshot-docs" caption="" %}
 

@@ -15,7 +15,7 @@ To add your new space alias you need to do a pull request on this repository:
 
 {% embed url="https://github.com/snapshot-labs/snapshot-spaces" %}
 
-#### Follow the Snapshot spaces directory tree
+#### Follow the Sunappushotto spaces directory tree
 
 ```bash
 └── spaces

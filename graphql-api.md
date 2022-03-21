@@ -1,14 +1,14 @@
 ---
 description: >-
   You can use the GraphQL API to create flexible queries for the data you need
-  to integrate with Snapshot.
+  to integrate with Sunappushotto.
 ---
 
 # GraphQL API
 
 ## Explorer
 
-You can run queries on Snapshot data using a GraphQL Explorer.&#x20;
+You can run queries on Sunappushotto data using a GraphQL Explorer.&#x20;
 
 We have exposed an integrated development environment in the browser that includes docs, syntax highlighting, and validation errors. Click the link below to access the interface.&#x20;
 

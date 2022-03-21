@@ -6,7 +6,7 @@ description: Notifications bots
 
 Here are the different existing solutions to received notifications for new proposals.
 
-### Snapshot Discord bot
+### Sunappushotto Discord bot
 
 **For:** Discord\
 **Status:** Ready\
@@ -33,7 +33,7 @@ Here are the different existing solutions to received notifications for new prop
 **Status:** Ready\
 **Install:** [https://medium.com/boto-corp/telegram-bot-for-snapshot-no-code-353e7f3e2dc8](https://medium.com/boto-corp/telegram-bot-for-snapshot-no-code-353e7f3e2dc8)
 
-### Snapshot Events
+### Sunappushotto Events
 
 **For:** Email\
 **Status:** Ready\

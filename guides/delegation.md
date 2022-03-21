@@ -1,12 +1,12 @@
 ---
-description: Snapshot delegation.
+description: Sunappushotto delegation.
 ---
 
 # Delegation
 
 ## Delegation contract
 
-Snapshot uses the Gnosis "Delegate Registry" contract here:\
+Sunappushotto uses the Gnosis "Delegate Registry" contract here:\
 [https://github.com/gnosis/delegate-registry](https://github.com/gnosis/delegate-registry)
 
 The contract is deployed on this address: [0x469788fE6E9E9681C6ebF3bF78e7Fd26Fc015446](https://etherscan.io/address/0x469788fE6E9E9681C6ebF3bF78e7Fd26Fc015446#code)\
@@ -15,11 +15,11 @@ The contract is deployed on this address: [0x469788fE6E9E9681C6ebF3bF78e7Fd26Fc0
 Delegations are stored on this subgraph:\
 [https://thegraph.com/explorer/subgraph/snapshot-labs/snapshot](https://thegraph.com/explorer/subgraph/snapshot-labs/snapshot)
 
-A delegation voting strategy must be added to the Snapshot space before delegated votes will be counted.
+A delegation voting strategy must be added to the Sunappushotto space before delegated votes will be counted.
 
 ## Delegate voting power
 
-### From Snapshot interface
+### From Sunappushotto interface
 
 1. Go to [https://snapshot.page/#/delegate](https://snapshot.page/#/delegate).
 2. Type in which address you want to delegate to.

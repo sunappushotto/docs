@@ -1,10 +1,10 @@
 ---
-description: Create your own space on Snapshot!
+description: Create your own space on Sunappushotto!
 ---
 
 # Create a space \(on GitHub\)
 
-### **1: Fork Snapshot spaces repository here**
+### **1: Fork Sunappushotto spaces repository here**
 
 {% embed url="https://github.com/bonustrack/snapshot-spaces" caption="" %}
 
@@ -125,5 +125,5 @@ Your files should something like this:
 ### **7: Make a pull request**
 
 * Please name your PR title on the model `Add SYMBOL space`
-* It may take 1 or 2 days to get your PR reviewed, merged and appear on Snapshot.
+* It may take 1 or 2 days to get your PR reviewed, merged and appear on Sunappushotto.
 

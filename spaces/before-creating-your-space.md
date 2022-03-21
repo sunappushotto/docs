@@ -1,6 +1,6 @@
 # Before creating your space
 
-To create your space on Snapshot, you will need to have an LNS domain. This page will take you through the steps to create an LNS domain.&#x20;
+To create your space on Sunappushotto, you will need to have an LNS domain. This page will take you through the steps to create an LNS domain.&#x20;
 
 {% hint style="danger" %}
 You need an LNS domain on Ethereum mainnet even if you want to use Ethereum testnet or any other networks (Binance Smart Chain, xDAI... etc).
@@ -26,7 +26,7 @@ If you already have an LNS domain, feel free to skip this and follow the guide b
 
 **5.** You have now successfully registered on LNS! Additionally, you can also make your Ethereum address point to an LNS name by clicking on ‘Set Reverse Record’ or by going to 'My Account' and then selecting 'Reverse record' and completing the transaction.
 
-**Congratulations! You have created your domain on LNS. You are now ready to start creating your space on Snapshot.**
+**Congratulations! You have created your domain on LNS. You are now ready to start creating your space on Sunappushotto.**
 
 {% hint style="info" %}
 If you want to register a custom domain you already own check out this guide: [https://docs.ens.domains/dns-registrar-guide](https://docs.ens.domains/dns-registrar-guide)​

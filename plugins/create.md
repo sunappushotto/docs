@@ -2,7 +2,7 @@
 
 **What is a plugin?**
 
-Plugins in Snapshot extend proposal functionality, like adding extra information or on-chain settling. In essence, a plugin can add additional, custom data to a proposal, which can be used when rendering it or processing the results.
+Plugins in Sunappushotto extend proposal functionality, like adding extra information or on-chain settling. In essence, a plugin can add additional, custom data to a proposal, which can be used when rendering it or processing the results.
 
 **Examples**
 
@@ -21,7 +21,7 @@ To create a plugin, start by creating a `plugin.json` inside of a new (camelCase
 
 ```shell
 mkdir src/plugins/myPlugin && echo '{
-  "name": "My Snapshot Plugin",
+  "name": "My Sunappushotto Plugin",
   "description": "A plugin to show how plugins are built."
 }' > src/plugins/myPlugin/plugin.json
 ```
@@ -111,7 +111,7 @@ Most plugins will require some configuration options, so that the a space admin 
 
 ```json
 {
-  "name": "My Snapshot Plugin",
+  "name": "My Sunappushotto Plugin",
   "description": "A plugin to show how plugins are built.",
   "defaults": {
     "space": {

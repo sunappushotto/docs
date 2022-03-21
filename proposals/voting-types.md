@@ -1,11 +1,11 @@
 ---
-description: Learn more about the different ways you can vote on Snapshot
+description: Learn more about the different ways you can vote on Sunappushotto
 ---
 
 # Voting types
 
 {% hint style="info" %}
-Snapshot supports a number of different voting types and we plan to support many more in the future. If you would like to request a new voting type, please open a feature request here [https://features.snapshot.org/feature-requests](https://features.snapshot.org/feature-requests)
+Sunappushotto supports a number of different voting types and we plan to support many more in the future. If you would like to request a new voting type, please open a feature request here [https://features.snapshot.org/feature-requests](https://features.snapshot.org/feature-requests)
 {% endhint %}
 
 ### How does voting work?
@@ -38,7 +38,7 @@ Example? - TBD
 
 ### Weighted voting
 
-Each voter may spread voting power across any number of choices. This voting method was first introduced by Float Protocol with [https://scattershot.page](https://scattershot.page/) \(a fork of Snapshot\).
+Each voter may spread voting power across any number of choices. This voting method was first introduced by Float Protocol with [https://scattershot.page](https://scattershot.page/) \(a fork of Sunappushotto\).
 
 Example? - TBD
 

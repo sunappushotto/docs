@@ -1,6 +1,6 @@
 # Strategies
 
-A strategy is a JavaScript function that returns a score for a set of addresses. Strategies are being used on Snapshot to calculate the result for a proposal. A proposal can have multiple strategies. The default strategy is to calculate the balance of an ERC20 for each voter. A strategy can send a call to a node or subgraph.
+A strategy is a JavaScript function that returns a score for a set of addresses. Strategies are being used on Sunappushotto to calculate the result for a proposal. A proposal can have multiple strategies. The default strategy is to calculate the balance of an ERC20 for each voter. A strategy can send a call to a node or subgraph.
 
 **All the strategies are visible here:** [https://snapshot.page/\#/strategies](https://snapshot.page/#/strategies)
 
@@ -59,7 +59,7 @@ Strategies are defined in the space `index.json` file level. This is how to add 
 
 Strategies can be used to create a score from on-chain data, the data does not necessary need to be monetary, we can imagine a strategy that calculate how many POAP you own or use any other data available on-chain to issue a score.
 
-## More strategies are on Snapshot.js here:
+## More strategies are on Sunappushotto.js here:
 
 {% embed url="https://github.com/bonustrack/snapshot.js/tree/master/src/strategies" caption="" %}
 

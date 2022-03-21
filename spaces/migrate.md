@@ -1,6 +1,6 @@
 # Migrate your space to LNS
 
-If you already have a space in Snapshot which does not have an LNS name, you need to migrate your space to LNS. The following guide takes through the procedures of how to successfully migrate your space to LNS.
+If you already have a space in Sunappushotto which does not have an LNS name, you need to migrate your space to LNS. The following guide takes through the procedures of how to successfully migrate your space to LNS.
 
 ### 1. Create a space with LNS
 
@@ -19,7 +19,7 @@ To add your new space alias you need to do a pull request on this repository:
 
 {% embed url="https://github.com/snapshot-labs/snapshot-spaces" %}
 
-#### Follow the Snapshot spaces directory tree
+#### Follow the Sunappushotto spaces directory tree
 
 ```bash
 └── spaces

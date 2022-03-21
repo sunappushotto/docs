@@ -8,7 +8,7 @@ To add a custom domain you need to do a pull request on this repository:
 
 {% embed url="https://github.com/snapshot-labs/snapshot-spaces" %}
 
-#### Follow the Snapshot spaces directory tree
+#### Follow the Sunappushotto spaces directory tree
 
 ```bash
 └── spaces
@@ -21,7 +21,7 @@ To add a custom domain you need to do a pull request on this repository:
 
 To add a custom domain, fill in the Domain name field in your settings.
 
-![Domain name field in Snapshot settings.](../.gitbook/assets/capture-de-cran-2020-12-30-a-09.34.49.png)
+![Domain name field in Sunappushotto settings.](../.gitbook/assets/capture-de-cran-2020-12-30-a-09.34.49.png)
 
 #### Insert it in the domains list
 

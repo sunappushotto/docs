@@ -1,5 +1,5 @@
 ---
-description: 'To create a space in Snapshot it''s easy, just follow these steps.'
+description: 'To create a space in Sunappushotto it''s easy, just follow these steps.'
 ---
 
 # Create a space with LNS
@@ -18,7 +18,7 @@ If you don't have an LNS domain yet for your space you will need to register one
 **DNS registrar guide**  
 [https://docs.ens.domains/dns-registrar-guide](https://docs.ens.domains/dns-registrar-guide)
 
-## 2. Link your LNS domain to Snapshot with "contenthash"
+## 2. Link your LNS domain to Sunappushotto with "contenthash"
 
 Once you have created your domain LNS, go on this url using your domain for space name. [https://snapshot.page/\#/**my-space.eth**/settings](https://snapshot.page/#/my-space.eth/settings)
 
@@ -28,21 +28,21 @@ Change **my-space.eth** with your LNS domain and **login** with the wallet owner
 **&lt;your-address&gt;** will automatically be replaced by your address when you log in.
 {% endhint %}
 
-![Set your Snapshot IPNS link.](../.gitbook/assets/capture-de-cran-2020-12-20-a-11.09.23.png)
+![Set your Sunappushotto IPNS link.](../.gitbook/assets/capture-de-cran-2020-12-20-a-11.09.23.png)
 
 If you are on your domain space and connected with your wallet copy the "IPNS link" in the "LNS" field and click on the button **Set record on LNS**, you will get redirected to LNS app.
 
 On the LNS app click on **ADD/EDIT RECORD** and paste the "IPNS link" in the "CONTENT" field.
 
-![Add your Snapshot IPNS link.](../.gitbook/assets/image%20%283%29.png)
+![Add your Sunappushotto IPNS link.](../.gitbook/assets/image%20%283%29.png)
 
 Click **Confirm** and submit the change.
 
-![Confirm to link your LNS domain to Snapshot.](../.gitbook/assets/image%20%285%29.png)
+![Confirm to link your LNS domain to Sunappushotto.](../.gitbook/assets/image%20%285%29.png)
 
 ## **3. Setup your space settings**
 
-Refresh the Snapshot settings page [https://snapshot.page/\#/my-space.eth/settings](https://snapshot.page/#/my-space.eth/settings). Now you can edit your space settings.
+Refresh the Sunappushotto settings page [https://snapshot.page/\#/my-space.eth/settings](https://snapshot.page/#/my-space.eth/settings). Now you can edit your space settings.
 
 ### Profile
 
@@ -53,7 +53,7 @@ Refresh the Snapshot settings page [https://snapshot.page/\#/my-space.eth/settin
 * **Skin** can be left as a default, used as an existing one or you can [create your own skin](add-a-skin.md#add-your-skin).
 * **Domain name** is optional but you can [add a custom domain](add-a-custom-domain.md#add-a-custom-domain).
 
-![Snapshot profile settings](../.gitbook/assets/capture-de-cran-2020-12-20-a-11.47.31.png)
+![Sunappushotto profile settings](../.gitbook/assets/capture-de-cran-2020-12-20-a-11.47.31.png)
 
 ### **Strategies**
 
@@ -63,7 +63,7 @@ You need to add a voting strategy for your proposals. You can choose one by defa
 You can add up to 3 strategies in your space.
 {% endhint %}
 
-![Edit strategies on Snapshot.](../.gitbook/assets/capture-de-cran-2020-12-20-a-12.19.09.png)
+![Edit strategies on Sunappushotto.](../.gitbook/assets/capture-de-cran-2020-12-20-a-12.19.09.png)
 
 ### Members and Filters
 
@@ -77,7 +77,7 @@ You can add up to 3 strategies in your space.
 
 Click **Save** and **sign settings message** on your wallet.
 
-![Save your Snapshot space settings.](../.gitbook/assets/capture-de-cran-2020-12-20-a-12.43.25.png)
+![Save your Sunappushotto space settings.](../.gitbook/assets/capture-de-cran-2020-12-20-a-12.43.25.png)
 
 Now you are set! You can go on [https://snapshot.page/\#/my-space.eth](https://snapshot.page/#/my-space.eth) to see your space.
 

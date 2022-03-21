@@ -1,4 +1,4 @@
-# Snapshot block number
+# Sunappushotto block number
 
 Block number is important, to lock the state of community members who are able to vote. Meaning that if you attempt to vote on a proposal and block number is in the past, and you weren't holding required token yet, your vote will not be counted.
 

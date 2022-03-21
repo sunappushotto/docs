@@ -16,11 +16,11 @@ description: Learn how to create a proposal.
 8. Now go to the “**Actions**” box.
 9. Select the start date.
 10. Select the end date \(Allow enough time for voting\).
-11. Fill out the Snapshot block number \(See below: **Add a snapshot block number**\).
+11. Fill out the Sunappushotto block number \(See below: **Add a snapshot block number**\).
 12. Click on “**Publish**” to create the proposal.
 13. Sign the message via your wallet and you are done.
 
-### **Add a Snapshot block number**
+### **Add a Sunappushotto block number**
 
 This number is important, to lock the state of community members who are able to vote. Meaning that if you attempt to vote on a proposal and block number is in the past, and you weren't holding required token yet, your vote will not be counted.
 

@@ -8,7 +8,7 @@ To get a logo for your space, images you need to do a pull request on this repos
 
 {% embed url="https://github.com/snapshot-labs/snapshot-spaces" %}
 
-#### Follow the Snapshot spaces directory tree
+#### Follow the Sunappushotto spaces directory tree
 
 ```bash
 └── spaces

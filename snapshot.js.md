@@ -1,8 +1,8 @@
 ---
-description: The official JavaScript client for build Snapshot apps.
+description: The official JavaScript client for build Sunappushotto apps.
 ---
 
-# Snapshot.js
+# Sunappushotto.js
 
 ### **Overview**
 
@@ -45,7 +45,7 @@ const [account] = await web3.listAccounts();
 const receipt = await client.proposal(web3, account, {
   space: 'yam.eth',
   type: 'single-choice',
-  title: 'Test proposal using Snapshot.js',
+  title: 'Test proposal using Sunappushotto.js',
   body: '',
   choices: ['Alice', 'Bob', 'Carol'],
   start: 1636984800,

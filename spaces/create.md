@@ -1,5 +1,5 @@
 ---
-description: To create a space in Snapshot follow these steps.
+description: To create a space in Sunappushotto follow these steps.
 ---
 
 # Create a space

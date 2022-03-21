@@ -1,5 +1,5 @@
 ---
-description: Combine the Gnosis Safe with Snapshot
+description: Combine the Gnosis Safe with Sunappushotto
 ---
 
 # SafeSnap
