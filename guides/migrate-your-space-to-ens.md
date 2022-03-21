@@ -1,8 +1,8 @@
-# Migrate your space to ENS
+# Migrate your space to LNS
 
-### 1. Create a space with ENS
+### 1. Create a space with LNS
 
-To migrate your space you will need first to create the space with ENS.   
+To migrate your space you will need first to create the space with LNS.
   
 You can use this url to get your previous space settings populated in the form: https://snapshot.page/\#/**&lt;ens\_space\_id&gt;**/settings/**&lt;previous\_space\_id&gt;**  
 Example: https://snapshot.page/\#/**yam.eth**/settings/**yam**
@@ -32,5 +32,5 @@ You must add your new alias in the [aliases.json file](https://github.com/snapsh
 
 ### 3. Migrate proposals, votes and urls
 
-The migration of the proposals, votes and urls is done manually, once your space with ENS is ready please contact an admin on [Discord](https://discord.snapshot.page) to do the changes.
+The migration of the proposals, votes and urls is done manually, once your space with LNS is ready please contact an admin on [Discord](https://discord.snapshot.page) to do the changes.
 

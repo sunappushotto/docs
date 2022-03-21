@@ -2,43 +2,43 @@
 description: 'To create a space in Snapshot it''s easy, just follow these steps.'
 ---
 
-# Create a space with ENS
+# Create a space with LNS
 
 {% hint style="warning" %}
-**If you already have a space see how to** [**Migrate your space to ENS**](migrate-your-space-to-ens.md)**.**
+**If you already have a space see how to** [**Migrate your space to LNS**](migrate-your-space-to-ens.md)**.**
 {% endhint %}
 
-## 1. Get an ENS domain for your space
+## 1. Get an LNS domain for your space
 
-If you don't have an ENS domain yet for your space you will need to register one. If you need help follow the registrar guide.
+If you don't have an LNS domain yet for your space you will need to register one. If you need help follow the registrar guide.
 
-**Register ENS domain**  
+**Register LNS domain**
 [https://app.ens.domains](https://app.ens.domains/)
 
 **DNS registrar guide**  
 [https://docs.ens.domains/dns-registrar-guide](https://docs.ens.domains/dns-registrar-guide)
 
-## 2. Link your ENS domain to Snapshot with "contenthash"
+## 2. Link your LNS domain to Snapshot with "contenthash"
 
-Once you have created your domain ENS, go on this url using your domain for space name. [https://snapshot.page/\#/**my-space.eth**/settings](https://snapshot.page/#/my-space.eth/settings)
+Once you have created your domain LNS, go on this url using your domain for space name. [https://snapshot.page/\#/**my-space.eth**/settings](https://snapshot.page/#/my-space.eth/settings)
 
 {% hint style="info" %}
-Change **my-space.eth** with your ENS domain and **login** with the wallet owner of the domain name.
+Change **my-space.eth** with your LNS domain and **login** with the wallet owner of the domain name.
 
 **&lt;your-address&gt;** will automatically be replaced by your address when you log in.
 {% endhint %}
 
 ![Set your Snapshot IPNS link.](../.gitbook/assets/capture-de-cran-2020-12-20-a-11.09.23.png)
 
-If you are on your domain space and connected with your wallet copy the "IPNS link" in the "ENS" field and click on the button **Set record on ENS**, you will get redirected to ENS app.
+If you are on your domain space and connected with your wallet copy the "IPNS link" in the "LNS" field and click on the button **Set record on LNS**, you will get redirected to LNS app.
 
-On the ENS app click on **ADD/EDIT RECORD** and paste the "IPNS link" in the "CONTENT" field.
+On the LNS app click on **ADD/EDIT RECORD** and paste the "IPNS link" in the "CONTENT" field.
 
 ![Add your Snapshot IPNS link.](../.gitbook/assets/image%20%283%29.png)
 
 Click **Confirm** and submit the change.
 
-![Confirm to link your ENS domain to Snapshot.](../.gitbook/assets/image%20%285%29.png)
+![Confirm to link your LNS domain to Snapshot.](../.gitbook/assets/image%20%285%29.png)
 
 ## **3. Setup your space settings**
 

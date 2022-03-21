@@ -7,7 +7,7 @@
   * [Create a space](spaces/create.md)
   * [Alternative way to create a space](spaces/alternative-way-to-create-a-space.md)
   * [Get verified](spaces/get-verified.md)
-  * [Migrate your space to ENS](spaces/migrate.md)
+  * [Migrate your space to LNS](spaces/migrate.md)
   * [Add a skin](spaces/add-skin.md)
   * [Add a custom domain](spaces/add-custom-domain.md)
   * [Space roles](spaces/space-roles.md)

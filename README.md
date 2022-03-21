@@ -33,5 +33,5 @@ We have limited resources so feel free to contribute with code, code review, des
 
 ### **What’s next?**
 
-Our next guide will take you through the steps of creating a space on Snapshot. It will also take you through the process of registering an ENS domain if you do not have one already. Before you create a space, you might want to look into some of the spaces already created on Snapshot.
+Our next guide will take you through the steps of creating a space on Snapshot. It will also take you through the process of registering an LNS domain if you do not have one already. Before you create a space, you might want to look into some of the spaces already created on Snapshot.
 
