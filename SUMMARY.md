@@ -27,7 +27,7 @@
 * [GraphQL API](graphql-api.md)
 * [Webhooks](webhooks.md)
 * [Bots](bots.md)
-* [Sunappushotto.js](snapshot.js.md)
+* [Sunappushotto.js](sunappushotto.js.md)
 * [Gnosis Safe](gnosis-safe.md)
 * [FAQs](faq.md)
 
